@@ -1,0 +1,8 @@
+New user Authenticated!
+Username: vineesh
+Password: vineesh1408
+URL: /api/checkLoggerData/vineesh/vineesh1408
+Date: 11/7/2024, 10:01:06 am
+Method Type: POST
+Status: Authentication Successful 
+
